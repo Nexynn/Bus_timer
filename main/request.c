@@ -8,7 +8,7 @@ extern const uint8_t ca_cert_pem_end[] asm("_binary_ca_cert_pem_end");
 // Macros pour les paramètres
 #define MONITORING_REF "STIF:StopArea:SP:24341:"
 #define LINE_REF "STIF:Line::C01287:"
-#define API_KEY "uDqBgtAO4xwCBMkSthcU1fjtRQVwi3im"
+#define API_KEY "uDqBgtAO4xwCBMkSthcU1fjtRQVwi3im"  //change this
 
 // URL de l'API
 #define URL "https://prim.iledefrance-mobilites.fr/marketplace/stop-monitoring"
